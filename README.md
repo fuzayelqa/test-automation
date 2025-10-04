@@ -1,4 +1,4 @@
-# Test-Automation (Test FB Login)   
+# Test-Automation (Test FB Login)
 # Author- Ozih Uddin Al Fuzayel 
 
 import pytest
